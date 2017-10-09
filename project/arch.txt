@@ -1,0 +1,13 @@
+
+models.add(new facultyArrayElement(R.drawable.mamun," Dr. M.A. Muktadir","Professor & Head B.Sc Engg. (BUET), B. Arch.(Florida), Post Doctorate (UK).", Dr. M.A. Muktadir is from Bangladesh, located in South Asia, a small country with eternal beauty and have Area Of Intrestes: "," 01830003270 "," headdarch@aust.edu "));
+
+models.add(new facultyArrayElement(R.drawable.mamun," Bijon B. Sarma ","Professor B. Arch. (BUET), M. Arch. (BUET) Gold Medal.", " Bijon B. Sarma. I am from Bangladesh, located in South Asia, a small country with eternal beauty. I have " + "Area Of Intrestes: "," 01716451225. ","??")); 
+
+models.add(new facultyArrayElement(R.drawable.mamun," Dr. Jasmin Ara Begum","Professor "," B. Arch (BUET), M. A. Ph. D. (University of North London, UK)...", "," Dr. Jasmin Ara Begum. I am from Bangladesh, located in South Asia, a small country with eternal beauty. I have " + "Area Of Intrestes: ","0174 2513 117 "," ?? "));
+
+
+
+models.add(new facultyArrayElement(R.drawable.mamun A.B.M. Mahbubul Malik "," Associate Professor "," B. Arch (BUET)..", "," A.B.M. Mahbubul Malik I am from Bangladesh, located in South Asia, a small country with eternal beauty. I have " + "Area Of Intrestes: "," 01817004929 ( "," ?? "));
+
+
+

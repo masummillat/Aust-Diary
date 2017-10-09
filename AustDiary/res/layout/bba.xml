@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="5dp" 
+    android:background="#ffffff">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="School of Business :"
+        android:textSize="20dp"
+        android:textStyle="bold|italic"
+        android:paddingBottom="5dp"
+         />
+    <ScrollView 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        >
+        <LinearLayout 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="The School of Business started its journey along with other departments of the University in 1995. This department was the sole department under the Faculty of Business and Social Science. The University has intention to open some other disciplines under this faculty if found demanding."
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" The School of Business is offering 4-years BBA degree, since its, very inception, which is divided into eight semesters. The syllabus and teaching method had been updated over the passage of time so that those could meet the demand of the future business executives. Internship program is included in this program so that the students can acquire practical knowledge of the real work environment. Five full-time teachers, of those two having Ph.D. degree, along with part-time teachers are constantly trying to give the best to the students. Part-time teachers are chosen on the basis of the merit of the course and the needed and required expertise. The courses selected for the BBA program are a unique assortment of varied disciplines so that they can meet the challenges of the 21st century. Computer laboratory facility is available for BBA students to make them acquainted with this modern technology."
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nowadays business education is not complete if it is not blended with practical exposure to the necessary theoretical part. For this purpose students are sent to different enterprises/factories for acquiring first hand knowledge where they will be working in future. Moreover, guest lectures and seminars are arranged to share the high expertise possessed by the reputed and competent resource persons."
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="In the absence of recreation facilities, education life becomes bored and monotonous; hence yearly orientation and reception for the new comers and farewell ceremonies for the outgoing students, coupled with cultural functions are arranged. Side by side students, under the leadership of some teachers, often join picnics and pleasure tours."
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="MBA Program (both regular and executive) had been launched with the existing 4-year BBA Program in February, 2002. The launching ceremony was held at Ahsania Mission Auditorium on February 1, 2002. Mr. Barkat Ullah Bulu, Honourable State Minister of Commerce, Government of the People's Republic of Bangladesh attended the ceremony as the Chief Guest along with other distinguished guests. "
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Teachers :"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold|italic"
+                />
+             <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dr. Md. Amanullah \n Professor \n Head And Dean"
+                android:layout_marginTop="5dp"
+                />
+              <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dr. Dipak Kanti Dutta \n  Professor \nContact:01710983993"
+                android:layout_marginTop="5dp"
+                />
+               <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dr. Shyamapada Biswas  \n Professor  "
+                android:layout_marginTop="5dp"
+                />
+                <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mr. Salman Salem Shinwary \n Assistant Professor\nEmail:shinwary.aust@gmail.com"
+                android:layout_marginTop="5dp"
+                />
+                 <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mr. Saleh Mohammed Mashehdul Islam \n Assistant Professor \nEmail:saleh.sob@aust.edu "
+                android:layout_marginTop="5dp"
+                />
+                <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mr. Md. Jahidur Rahman-  \n Assistant Professor \nEmail:jahid2010bd@gmail.com"
+                android:layout_marginTop="5dp"
+                />
+                <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ms. Parul Akhter  \n Assistant Professor \nEmail:paru25.1980@gmail.com"
+                android:layout_marginTop="5dp"
+                />
+                <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mr. SM Shafiul Alam \n Assistant Professor \nEmail:shafistore@gmail.com"
+                android:layout_marginTop="5dp"
+                />
+                <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mr. Mrinal Kanti Paul\n Assistant Professor \nEmail:mrinal.sob@aust.edu,mkantipaul@yahoo.com"
+                android:layout_marginTop="5dp"
+                />
+                <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ms. Naznin Sultana Chaity \n Assistant Professor \nEmail:nschaity.sob@aust.edu,nschaity@gmail.com"
+                android:layout_marginTop="5dp"
+                />
+                <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mr. Mashiur Rahman \n Assistant Professor \nEmail:mashiur_1953@yahoo.com"
+                android:layout_marginTop="5dp"
+                />
+                <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mr. Kazi Ahmed Farhan \n Assistant Professor \nEmail:kazi.ahmed.farhan@gmail.com"
+                android:layout_marginTop="5dp"
+                />
+                <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mr. Md. Shak Forid \n Assistant Professor \nEmail:sk4431@gmail.com"
+                android:layout_marginTop="5dp"
+                />
+                 <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mr. Md. Mahfujur Rahman \n Assistant Professor \nEmail:farsi879@gmail.com"
+                android:layout_marginTop="5dp"
+                />
+                  <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ms. Sarah Chowdhury \n Assistant Professor \nEmail:efa.sarah@gmail.com"
+                android:layout_marginTop="5dp"
+                />
+                   <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ms. Sanjida Sharmin \n Assistant Professor \nEmail:sanjida294@yahoo.com"
+                android:layout_marginTop="5dp"
+                />
+            
+            
+        </LinearLayout>
+        
+    </ScrollView>
+
+</LinearLayout>

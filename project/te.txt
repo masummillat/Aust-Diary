@@ -1,0 +1,16 @@
+
+models.add(new facultyArrayElement(R.drawable.mamun," Prof. Dr. Mustafizur Rahman","Professor & Head"," M. Sc. (DU), Ph.D.(London)
+DIC(Imperial College, London)
+Post-doctoral Associate(USA).", Dr. Mustafizur Rahman. I am from Bangladesh, located in South Asia, a small country with eternal beauty. I have " + "Area Of Intrestes: "," 01830003270 "," headdtt@aust.edu "));
+
+models.add(new facultyArrayElement(R.drawable.mamun," Dr. Ahmed Jalal Uddin ","Professor "," B.Sc. (D.U.), M.Sc. (MSU, Baroda),
+M. Tex. Sys. Eng. D.Eng. (Shinshu University Japan) ", " Dr. Ahmed Jalal Uddin. I am from Bangladesh, located in South Asia, a small country with eternal beauty. I have " + "Area Of Intrestes: Yarn Manufacturing "," 01716451225. ","??")); 
+
+models.add(new facultyArrayElement(R.drawable.mamun," Prof. Dr. Satyen Biswas","Professor "," B.Sc. Engg.(EEE), BUET; M.Sc. Engg.(Japan); Ph.D. (Japan); P.E.(Canada)..", "," Prof. Dr. Satyen Biswas. I am from Bangladesh, located in South Asia, a small country with eternal beauty. I have " + "Area Of Intrestes: ","0174 2513 117 "," jalaluddin.dtt@aust.edu "));
+
+
+
+models.add(new facultyArrayElement(R.drawable.mamun Dr. Md. Ismail Chowdhury "," Associate Professor "," M.Sc. in Tex. Eng. (USSR), Ph.D. in Tex. Tech. (USSR)..", "," Dr. Md. Ismail Chowdhury. I am from Bangladesh, located in South Asia, a small country with eternal beauty. I have " + "Area Of Intrestes: Yarn Manufacturing "," 01817004929 ( "," chowdhuryismail111 @yahoo.com "));
+
+
+

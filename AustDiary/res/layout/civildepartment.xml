@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="5dp"
+    android:background="#ffffff" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Civil Engneering :" 
+        android:textSize="20dp"
+        android:textStyle="bold|italic"/>
+    
+    <ScrollView 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        >
+        <LinearLayout 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Postgraduate Degrees/Diploma Offered"
+                android:textStyle="bold|italic"
+                />
+              <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="The following degrees/diploma are offered by the Department of Civil Engineering, Ahsanullah University of Science and Technology (AUST):\n1.Master of Science in Civil Engineering abbreviated as M.Sc. Engg. (Civil)\n2.Master of Engineering in Civil Engineering abbreviated as M. Engg. (Civil)\n3.Postgraduate Diploma in Civil Engineering Abbriviated as PG. Dip. (CE)"
+                android:layout_marginTop="5dp"
+                />
+               <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Admission Procedure :"
+                android:layout_marginTop="5dp"
+                android:textStyle="bold|italic"
+                />
+                <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Candidates willing to take admission are required to collect the application form from the office of the Registrar of the University. A candidate must fill in the information related to admission (Desired Program, Status of Studentship, etc.), his/her personal information (Name, Father’s Name, Mother’s Name, Date of Birth, Addresses, Gender, Nationality, etc.) his/her academic information, his/her experience, if any, and names and addresses of two referees."
+                android:layout_marginTop="5dp"
+                />
+                 <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="After filling in all necessary data, the completed application form, duly signed by the applicant, must be submitted with the following supporting documents to the registrar’s office to complete the application procedure.\n(i)   Two attested copies of recent passport size color photographs.\n(ii)  Attested copies of certificates of all public examinations.\n(iii) Attested copies of certificates/grade sheets/mark sheets of degrees obtained.\n(iv)  Attested copies of testimonials/character certificates from the institutions attended.(v)   The letter of consent from the employer for applicants in employment."
+                android:layout_marginTop="5dp"
+                />
+                 <TextView 
+                     android:layout_marginTop="5dp"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:text="Selection of Candidates :"
+                     android:textStyle="bold|italic"
+                     />
+                 <TextView 
+                     android:layout_marginTop="5dp"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:text="The selection of candidates for admission into a Postgraduate program will be performed by the Department. A candidate may be required to appear at an interview by the selection committee as constituted by the Board of Postgraduate Studies of the Department. He/She will be required to take pre-requisite course(s) as may be prescribed by the Selection Committee. The final list of the selected candidates for admission into the Postgraduate programs will be notified on the notice board of the Department urging them to take admission as early as possible, but not later than two weeks from the start of the classes, on payment of the requisite fees. Candidates are advised to contact the Department for information regarding the selection procedure."
+                     />
+                 <TextView 
+                     android:layout_marginTop="5dp"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:text="Course Registration :"
+                      android:textStyle="bold|italic"
+                     
+                     />
+                 <TextView 
+                     android:layout_marginTop="5dp"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:text="The candidates finally selected for admission have to fill in the Course Registration Form to be available from the Department. A full-time student must register a minimum of 12 (twelve) credit hours and a maximum of 15 (fifteen) credit hours per semester. A part-time student should register for a maximum of 9 (nine) credit hours per semester. "
+                     />
+                 
+                 <TextView 
+                     android:layout_marginTop="5dp"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:text="Teachers :"
+                     android:textStyle="bold|italic"
+                     />
+                
+	            <TextView 
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:text="Dr. Md. Anwarul Mustafa \n Professor and Head \n B.Sc. Engg. (Civil), Raj. University M.Sc. Engg. (Structure), N.U., Malaysia; Ph.D. (Structure), N.U., Malaysia"
+	                android:layout_marginTop="5dp"
+	                />
+	            <TextView 
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:text="Dr. Mohd. S. A. A. Kiwan \n Professor \n B.Sc. Engg. (Civil), BUET, Master of Urban and Regional Planning (MURP), BUET; Ph.D.(Construction Management), Dundee, UK"
+	                android:layout_marginTop="5dp"
+	                />
+	            <TextView 
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:text="Dr. Md. Abdul Halim \n Professor \n B.Sc. Engg. (Civil), BUET; M.Sc. Engg. (WRE), BUET; Ph.D. (WRE), University of Manchester, UK\n Contact: Email: mahalim.ce@aust.edu \n jpz@bdonline.com"
+	                android:layout_marginTop="5dp"
+	                />
+	            <TextView 
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:text="Dr. Md. Mahmudur Rahman \n Professor \n B.Sc. Engg. (Civil), BUET; \n M. Engg. (Structure), AIT, Thailand; \n Ph.D. (Structure), Saga University, Japan\nContact: \nEmail: mahmudurdr@aust.edu,\n mahmud402@yahoo.com"
+	                android:layout_marginTop="5dp"
+	                />
+	            <TextView 
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:text="Dr. Md. Monjur Hossain \n Professor \n B. Sc. Engg. (Civil), Raj. University; M.Sc. Engg. (Structure), BUET; \nPh.D. (Structure), BUET\nContact\nEmail:drmonjur@ce.kuet.ac.bd"
+	                android:layout_marginTop="5dp"
+	                />
+	            <TextView 
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:text="Dr. Quazi Hamidul Bari \n Professor \n B. Sc. Engg. (Civil), KUET; M. Engg. (Environment), AIT, Bangkok, Thailand; Ph. D. (Environment), HKU, Hongkong\nContact\nEmail: qhbari@yahoo.com"
+	                android:layout_marginTop="5dp"
+	                />
+	            <TextView 
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:text="Dr. M. A. Matin \n Professor \nB. Sc. Engg. (Civil), BUET; M.Sc. Engg. (WR), BUET;Ph. D. (WRE), University of Strathclyde, UK\nContact:\nEmail: matinmabuet81@gmail.com"
+	                android:layout_marginTop="5dp"
+	                />
+	            <TextView 
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:text="Dr. Sharmin Reza Chowdhury \n Professor\n B.Sc. Engg. (Civil), BUET;M.Sc. Engg. (Structure), BUET;Ph.D. (Structure),  Bogazici University, Turkey\nContact:\nEmail:srchowy@yahoo.com"
+	                android:layout_marginTop="5dp"
+	                />
+	            <TextView 
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:text=""
+	                android:layout_marginTop="5dp"
+	                />
+	            <TextView 
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:text=""
+	                android:layout_marginTop="5dp"
+	                />
+            
+            
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

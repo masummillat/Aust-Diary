@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="5dp"
+    android:background="#ffffff" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Computer Science and Engineering"
+        android:textSize="20dp"
+        android:textStyle="bold|italic"
+         />
+    <ScrollView 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        
+        >
+        <LinearLayout 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="The department of Computer Science and Engineering, abbreviated CSE, is offering an undergraduate engineering degree program since the establishment of the university in the year 1995 with a view to offer quality higher education to numerous worthy young fellows as well as to meet the huge demand of highly qualified specialists in the field. The program follows an intensive course curriculum containing well-organized courses on basic sciences, computer science, electrical and electronic engineering, computer engineering, management and humanities. Computer science and engineering courses constitute the bulk of the program (about 70%) and are most emphasized, of course. "
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Usual intake of students in the department is twice in an year. Students graduated from this department are employed in different prestigious institutions and organizations home and abroad. A good number of our graduates have completed postgraduate programs including doctoral programs with brilliant performances at highly ranked universities around the world."
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="The department has a good number of young full-time faculty members with best available exposure to ever-growing horizon of computer science and engineering. Besides, a number of part-time faculties also teach in each semester from other universities, research organizations and industrial establishments for extending experience-rich education"
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="The department organizes various co-curricular and extra-curricular activities to develop important social and professional faculties in the students. Most common co-curricular activity is the programming contest, which has become regular by this time. And the most common extra-curricular activities are reception parties for welcoming the newly entered students and for biding farewell to the outgoing students."
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="The department has developed its own laboratories which include six computer labs and one digital electronics lab equipped with modern personal computers and electronic devices. There is a server center attached to the department which is equipped with various PC-server systems for providing network facilities to the labs and offices all over the university campus."
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Teachers :"
+                android:layout_marginTop="5dp"
+                android:textStyle="bold|italic"
+                />
+            <ImageView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/mamun"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1. Dr. S. M. Abdullah Al-Mamun\nProfessor and Head\nMS (Comp. Engg.), Ukraine, Ph.D. (Moscow, Russia)."
+                android:layout_marginTop="5dp"
+                />
+            <ImageView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/kharul"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2. Mr. Md. Khairul Hasan\nAssociate Professor\nB.Sc. Engg. (CSE), AUST, M.Sc.(CSE), UIU."
+                android:layout_marginTop="5dp"
+                />
+            <ImageView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/shafiqul"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="3. Dr. Mohammad Shafiul Alam\nAssociate Professor\nB.Sc. Engg. (CSE), M.Sc. (CSE) and Ph.D., BUET."
+                android:layout_marginTop="5dp"
+                />
+            <ImageView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/zakia"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="4. Ms. Umme Zakia\nAssistant Professor\nB.Sc. (ECS), JU, M.Sc. (CSE), NSU."
+                android:layout_marginTop="5dp"
+                />
+            <ImageView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/muhammad"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="5. Mr. Faisal Muhammad Shah\nAssistant Professor\nB.Sc. Engg. (CSE), AUST, M.Sc.(CSE), UIU, Ph.D.(Ongoing), JU."
+                android:layout_marginTop="5dp"
+                />
+            <ImageView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/lisa"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="6. Ms. Nusrat Jahan Lisa\nAssistant Professor\nB.Sc. Engg. (CSE), AUST, M.Sc.(CSE), UIU, M.Phil.(Ongoing), DU."
+                android:layout_marginTop="5dp"
+                />
+            <ImageView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/eity"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="7. Ms. Qamrun Nahar Eity\nAssistant Professor\nB.Sc. Engg.(CSE), AUST, M.Sc.(CSE), UIU."
+                android:layout_marginTop="5dp"
+                />
+            <ImageView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/tanvir"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="8. Mr. Tanvir Ahmed\nAssistant Professor\nB.Sc. Engg. (CSE), AUST, M.Sc. (CSE), England, Ph.D.(Ongoing), BUET."
+                android:layout_marginTop="5dp"
+                />
+            <ImageView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/kabir"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="9. Mr. Md. Wasi Ul Kabir\nAssistant Professor\nB.Sc. Engg. (CSE), AUST, M.Sc.(CSE,Ongoing), BUET."
+                android:layout_marginTop="5dp"
+                />
+            <ImageView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/shabnam"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="10. Ms. Syeda Shabnam Hasan\nLecturer\nB.Sc. Engg. (CSE), AUST."
+                android:layout_marginTop="5dp"
+                />
+            <ImageView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/emam"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="11. Mr. Emam Hossain\nLecturer\nB.Sc. Engg.(CIT), IUT."
+                android:layout_marginTop="5dp"
+                />
+            <ImageView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/nayem"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="12. Mr. Mir Tafseer Nayeem\nLecturer\nB.Sc. Engg.(CIT), IUT."
+                android:layout_marginTop="5dp"
+                />
+            <ImageView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ahsanujjaman"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="13. Mr. Ahasanuzzaman\nLecturer\nB.Sc , CSE, DU."
+                android:layout_marginTop="5dp"
+                />
+            <ImageView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/belalbhai"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="14. Mr. Tanveer Ahmed Belal\nLecturer\nB.Sc, CSE, AUST."
+                android:layout_marginTop="5dp"
+                />
+            <ImageView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/arif"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="15. Mr. M. Arif Imtiazur Rahman\nLecturer\nB.Sc , CSE, BUET."
+                android:layout_marginTop="5dp"
+                />
+            <ImageView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ridi"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="16. Ms. Ridi Hossain\nLecturer\nB.Sc,CSE, DU, M.Sc, CSE, DU (ongoing)."
+                android:layout_marginTop="5dp"
+                />
+            <ImageView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/asma"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="17. Ms. Asma Enayet\nLecturer\nB.Sc , CSE, DU, M.Sc, CSE, DU (ongoing)."
+                android:layout_marginTop="5dp"
+                />
+            <ImageView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+           
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="18. Ahmad Wasi\nLecturer\n B.Sc in CSE,BUET"
+                android:layout_marginTop="5dp"
+                />
+            
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

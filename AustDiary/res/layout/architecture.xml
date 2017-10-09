@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffffff" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Faculty of Architecture " 
+        android:textSize="20dp"
+        android:textStyle="bold|italic"/>
+    
+    <ScrollView 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        >
+		    <LinearLayout
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:orientation="vertical"
+		        
+		         >
+		    		<TextView 
+				        android:layout_width="wrap_content"
+				        android:layout_height="wrap_content"
+				        android:text="Our Program:"
+				        android:textStyle="bold|italic"    
+				        />
+		    		
+						    <TextView 
+						        android:layout_width="wrap_content"
+						        android:layout_height="wrap_content"
+						        android:text="archi home1"
+						        android:id="@+id/archi1"
+						        />
+				    <TextView 
+				        android:layout_width="wrap_content"
+				        android:layout_height="wrap_content"
+				        android:text="The Jury System:"
+				        android:textStyle="bold|italic"    
+				        />
+				    		<TextView 
+					        android:layout_width="wrap_content"
+					        android:layout_height="wrap_content"
+					        android:text="archi home2"
+					        android:id="@+id/archi2"
+					        />
+				    <TextView 
+				        android:layout_width="wrap_content"
+				        android:layout_height="wrap_content"
+				        android:text="We already have:"
+				        android:textStyle="bold|italic"    
+				        />
+				    		<TextView 
+					        android:layout_width="wrap_content"
+					        android:layout_height="wrap_content"
+					        android:text="archi home3"
+					        android:id="@+id/archi3"
+					        />
+				    
+				    <TextView 
+				        android:layout_marginTop="20dp"
+				        android:layout_width="wrap_content"
+				        android:layout_height="wrap_content"
+				        android:text="Teachers :"
+				        android:textStyle="bold|italic"
+				        android:id="@+id/archiTeacher"
+				        
+				        />
+				    <TextView 
+				        android:layout_width="wrap_content"
+				        android:layout_height="wrap_content"
+				        android:text="1. Bijon B. Sarma \nProfessor \nB.Arch.(BUET), M. Arch. (BUET) Gold Medal."
+				        />
+				    <TextView 
+				        android:layout_marginTop="5dp"
+				        android:layout_width="wrap_content"
+				        android:layout_height="wrap_content"
+				        android:text="2. Dr. Jasmin Ara Begum\nProfessor\nB. Arch (BUET), M. A. Ph. D. (University of North London, UK)."
+				        />
+				    <TextView 
+				        android:layout_marginTop="5dp"
+				        android:layout_width="wrap_content"
+				        android:layout_height="wrap_content"
+				        android:text="3. A.B.M. Mahbubul Malik\nAssociate Professor\nB. Arch (BUET).
+				        "
+				        />
+				    <TextView 
+				        android:layout_marginTop="5dp"
+				        android:layout_width="wrap_content"
+				        android:layout_height="wrap_content"
+				        android:text="4. Mr. Shehzad Zahir\nAssociate Professor\nB. Arch (K U) MURP (BUET), M. Arch (Katholieke University Leuven, Belgium), Advanced PGT (Tanzania / Lund University, Sweden)."
+				        />
+				    <TextView 
+				        android:layout_marginTop="5dp"
+				        android:layout_width="wrap_content"
+				        android:layout_height="wrap_content"
+				        android:text="5. Mr. Dibbendu Saha\nAssistant Professor\nB. Arch. (BUET), M.A. (IHS-EUR, the Netherlands)."
+				        />
+				    <TextView 
+				        android:layout_marginTop="5dp"
+				        android:layout_width="wrap_content"
+				        android:layout_height="wrap_content"
+				        android:text="6. Mr. Rana Das\nAssistant Professor\nB.Arch. (KU),M.Arch. (KU Leuven), PGT (KUL). Belgium."
+				        />
+				    <TextView 
+				        android:layout_marginTop="5dp"
+				        android:layout_width="wrap_content"
+				        android:layout_height="wrap_content"
+				        android:text="7. Ms. Deel Afsana\nAssistant Professor\nB. Arch (Khulna University) M. Sc (AIT- Thailand)."
+				        />
+				    <TextView 
+				        android:layout_marginTop="5dp"
+				        android:layout_width="wrap_content"
+				        android:layout_height="wrap_content"
+				        android:text="8. S. Monirul Islam\nAssistant Professor\nB. Arch (Khulna University) Advanced PGC (South Africa, Lund University,Sweden)."
+				        />
+				    <TextView 
+				        android:layout_marginTop="5dp"
+				        android:layout_width="wrap_content"
+				        android:layout_height="wrap_content"
+				        android:text="9. Ms. Deel Afsana\nAssistant Professor\nB. Arch (Khulna University) M. Sc –(UEM) (AIT- Bangkok, Thailand)."
+				        />
+				    <TextView 
+				        android:layout_marginTop="5dp"
+				        android:layout_width="wrap_content"
+				        android:layout_height="wrap_content"
+				        android:text="10. Md. Sujaul Islam Khan\nAssistant Professor\nB.Arch. (BUET), M.Arch. (USA)."
+				        />
+				    <TextView 
+				        android:layout_marginTop="5dp"
+				        android:layout_width="wrap_content"
+				        android:layout_height="wrap_content"
+				        android:text="11. Dr. Rumana Rashid\nAssistant Professor\nB.Arch.(AUST), M. Arch and PhD (UTM) , Malaysia."
+				        />
+				    <TextView 
+				        android:layout_marginTop="5dp"
+				        android:layout_width="wrap_content"
+				        android:layout_height="wrap_content"
+				        android:text="12. Ms. Ayasha Siddiqua\nAssistant Professor\nB.Arch (BUET), MaHS (KU Leuven)."
+				        />
+				    <TextView 
+				        android:layout_marginTop="5dp"
+				        android:layout_width="wrap_content"
+				        android:layout_height="wrap_content"
+				        android:text="13. Ms. Urmee Choudhury\nAssistant Professor\nB. Arch (BUET), MURP (BUET)."  
+				        />
+				     <TextView 
+				        android:layout_marginTop="5dp"
+				        android:layout_width="wrap_content"
+				        android:layout_height="wrap_content"
+				        android:text="14. Mr. Masudur Rashid\nAssistant Professor\nB.Arch (AUST), M.Arch (BUET)."  
+				        />
+				      <TextView 
+				        android:layout_marginTop="5dp"
+				        android:layout_width="wrap_content"
+				        android:layout_height="wrap_content"
+				        android:text="15. Ms. Rumnana Afroz\nAssistant Professor\nB.Arch (AUST), M.Sc. UP (The University of Hong Kong)."  
+				        />
+				       <TextView 
+				        android:layout_marginTop="5dp"
+				        android:layout_width="wrap_content"
+				        android:layout_height="wrap_content"
+				        android:text="16. Mr. Naimul Aziz\nAssistant Professor\nB.Arch (BUET)."  
+				        />
+				        <TextView 
+				        android:layout_marginTop="5dp"
+				        android:layout_width="wrap_content"
+				        android:layout_height="wrap_content"
+				        android:text="17. Ms. Jinia Sharmeen\nAssistant Professor\nB.Arch (AUST), March (BUET)."  
+				        />
+				         <TextView 
+				        android:layout_marginTop="5dp"
+				        android:layout_width="wrap_content"
+				        android:layout_height="wrap_content"
+				        android:text="18. Ms. Tamanna Kabir\nAssistant Professor\nB. Arch (BUET)PGCC in MLARR (BRAC), MSc in UMD(Housing Development Strategies),The Netherlands. PGCC (BRAC)."  
+				        />
+				       
+				    
+				    
+				    
+		    </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,11 @@
+
+models.add(new facultyArrayElement(R.drawable.mamun," Prof. Dr. Abdur Rahim Mollah","Professor & Head"," B.Sc.(EEE), BUET M.Sc.(EEE),UK Ph.D. (UK).", " Dr. Abdur Rahim Mollah. I am from Bangladesh, located in South Asia, a small country with eternal beauty. I have " + "Area Of Intrestes: "," 0155 2312 357 ","??"));
+
+models.add(new facultyArrayElement(R.drawable.mamun," Prof. Dr. Abu Hamed M. Abdur Rahim","Professor "," B.Sc.(EEE), BUET Ph.D. (EEE), University of Alberta ,Canada", " Dr. Abu Hamed M. Abdur Rahim. I am from Bangladesh, located in South Asia, a small country with eternal beauty. I have " + "Area Of Intrestes: "," Office: 8870421-6 (O) (Ext. 609) ","??")); 
+
+models.add(new facultyArrayElement(R.drawable.mamun," Prof. Dr. Satyen Biswas","Professor "," B.Sc. Engg.(EEE), BUET; M.Sc. Engg.(Japan); Ph.D. (Japan); P.E.(Canada)..", "," Prof. Dr. Satyen Biswas. I am from Bangladesh, located in South Asia, a small country with eternal beauty. I have " + "Area Of Intrestes: ","0174 2513 117 ","??"));
+
+models.add(new facultyArrayElement(R.drawable.mamun M. Abul Hussain"," Associate Professor "," B.Sc. Engg.(EEE), REC,(RMCS); M.Sc. Engg. (UMIST) UK..", "," Prof. M. Abul Hussain. I am from Bangladesh, located in South Asia, a small country with eternal beauty. I have " + "Area Of Intrestes: "," 0155 2319 382 ( ","??"));
+
+
+

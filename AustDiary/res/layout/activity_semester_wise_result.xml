@@ -1,0 +1,73 @@
+<ScrollView 
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+	<RelativeLayout 
+	    
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:paddingBottom="@dimen/activity_vertical_margin"
+	    android:paddingLeft="@dimen/activity_horizontal_margin"
+	    android:paddingRight="@dimen/activity_horizontal_margin"
+	    android:paddingTop="@dimen/activity_vertical_margin"
+	     >
+	
+	    <LinearLayout 
+	         android:layout_width="wrap_content"
+	         android:layout_height="wrap_content"
+	         android:orientation="vertical"
+	         android:layout_centerHorizontal="true" >
+	         
+	        <Button
+		           android:id="@+id/btn1.1"
+		           android:layout_width="250dp"
+		           android:layout_height="40dp"
+		           android:layout_marginBottom="10dp"
+		           android:text="1st year 1st semester" />
+	        <Button
+		           android:id="@+id/btn1.2"
+		           android:layout_width="250dp"
+		           android:layout_height="40dp"
+		           android:layout_marginBottom="10dp"
+		           android:text="1st year 2nd semester" />
+	        <Button
+		           android:id="@+id/btn2.1"
+		           android:layout_width="250dp"
+		           android:layout_height="40dp"
+		           android:layout_marginBottom="10dp"
+		           android:text="2nd year 1st semester" />
+	        <Button
+		           android:id="@+id/btn2.2"
+		           android:layout_width="250dp"
+		           android:layout_height="40dp"
+		           android:layout_marginBottom="10dp"
+		           android:text="2nd year 2nd semester" />
+	        <Button
+		           android:id="@+id/btn3.1"
+		           android:layout_width="250dp"
+		           android:layout_height="40dp"
+		           android:text="3rd year 1st semester" />
+	        <Button
+		           android:id="@+id/btn3.2"
+		           android:layout_width="250dp"
+		           android:layout_height="40dp"
+		           android:layout_marginBottom="10dp"
+		           android:text="3rd year 2nd semester" />
+	        <Button
+		           android:id="@+id/btn4.1"
+		           android:layout_width="250dp"
+		           android:layout_height="40dp"
+		           android:layout_marginBottom="10dp"
+		           android:text="4th year 1st semester" />
+	        <Button
+		           android:id="@+id/btn4.2"
+		           android:layout_width="250dp"
+		           android:layout_height="40dp"
+		           android:layout_marginBottom="10dp"
+		           android:text="4th year 2nd semester" />
+	       
+	        
+	     </LinearLayout>
+	
+	</RelativeLayout>
+</ScrollView>

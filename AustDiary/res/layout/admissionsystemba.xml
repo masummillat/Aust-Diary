@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="5dp"
+    android:background="#ffffff" >
+    
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:text="ADMISSION SYSTEM FOR BACHELOR DEGREE PROGRAMS"
+        android:textStyle="bold|italic"
+        android:textSize="20dp"
+        />
+    <ScrollView 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        
+        >
+        <LinearLayout 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" There are two semesters (Spring and Fall) in every year. Admission for 1st semester of 1st year is open in every semester. Notice for admission in Bachelor Degree Programs is published in some of the national daily newspapers as well as AUST website (www.aust.edu) "
+                android:layout_marginTop="5dp"
+                android:textColor="#000000"
+                android:textSize="18dp"
+                android:fontFamily="Arial"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="For HSC passed candidates:"
+                android:layout_marginTop="5dp"
+                android:textStyle="bold|italic"
+                android:textColor="#000000"
+                android:textSize="18dp"
+                android:fontFamily="Arial"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" The candidates who have passed HSC or equivalent examination in 2014 or 2013 are eligible to apply and they must apply through SMS and Web-based system of Teletalk Bangladesh Limited from 29 December 2014 to 22 January 2015. Application fees is Tk. 500/-. "
+                android:layout_marginTop="5dp"
+                android:textColor="#000000"
+                android:textSize="18dp"
+                android:fontFamily="Arial"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="For GCE A-Level passed candidates:"
+                android:layout_marginTop="5dp"
+                android:textStyle="bold|italic"
+                android:textColor="#000000"
+                android:textSize="18dp"
+                android:fontFamily="Arial"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="The candidates who have passed GCE A-level or equivalent examination in 2014 or 2013 are required to collect the prescribed Application Forms from the Office of the Registrar on any working day from 29 December 2014 to 22 January 2015 between 10:00 am to 3:30 pm (except Friday and Saturday) on payment of Tk 500/- as application fee and submit the filled in Application Form to the same office within 22 January 2015 by 3:30 pm."
+                android:layout_marginTop="5dp"
+                android:textColor="#000000"
+                android:textSize="18dp"
+                android:fontFamily="Arial"
+                />
+            
+            
+            
+        </LinearLayout>
+        
+    </ScrollView>
+    
+
+</LinearLayout>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:padding="5dp"
+    android:background="#ffffff">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mechanical and Production Engineering"
+        android:textSize="20dp"
+        android:textStyle="bold|italic"
+         />
+    <ScrollView 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        
+        >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="Department of Mechanical and Production Engineering has formally started its journey on Spring Semester-2010 at Ahsanullah University of Science and Technology. Our mission is to educate persons for professional and technical excellence, to perform research to advance the science and practice of engineering, to engage in service activities that advance the department, the university and the profession, and to instill in ourselves and students habits and attitudes that promote ethical behavior, professional responsibility and careers that advance the well-being of society. The department offers two undergraduate degree programs: Bachelor of Science in Industrial and Production Engineering (B.Sc. in IPE) and Bachelor of Science in Mechanical Engineering (B.Sc. in ME)." />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="Industrial Engineering is where engineering meets business. It is the perfect career for people who like to solve practical problems in a variety of working environments and develop systems to improve quality and productivity. Mechanical engineers are trained in traditional fields such as fluid mechanics, heat transfer, machine design, and controls; but they also learn how to apply the fundamental principles of physics, chemistry and mathematics." />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="Industrial Engineering is where engineering meets business. It is the perfect career for people who like to solve practical problems in a variety of working environments and develop systems to improve quality and productivity. Mechanical engineers are trained in traditional fields such as fluid mechanics, heat transfer, machine design, and controls; but they also learn how to apply the fundamental principles of physics, chemistry and mathematics." />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="We are in an enviable position of continuing growth and rejuvenation. The department continues to search for young, promising researchers to enrich its academic staff and promote its exciting research vision. Part of that process entails expanding vertically by improving the foundation of its unique laboratory facilities, designing its educational programs for tomorrow&apos;s challenges, contributing to national endeavors." />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="" />
+             <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Monjur Morshed\nAssistant Professor\nB.Sc. Engg. (EEE). BIT. Chittagong; M.Sc.(CT), U.of Ulm, Germany."
+                android:layout_marginTop="5dp"
+                />
+                <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Bobby Barua\nAssistant Professor\nB.Sc in EEE (AUST); M.Sc. in EEE (BUET); Ph.D. (On going), BUET."
+                android:layout_marginTop="5dp"
+                />
+                <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ismat Zareen\nAssistant Professor\nB.Sc. in EEE (AUST); M.Sc Engg (EEE) (BUET)."
+                android:layout_marginTop="5dp"
+                />
+                <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Md. Meganur Rhaman\nAssistant Professor\nB.Sc. Engg. (EEE), AUST; M.Engg in EEE (BUET). Ph.D. (On going), BUET."
+                android:layout_marginTop="5dp"
+                />
+                <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mr. Mohammad Tawhidul Alam\nAssistant Professor\nB.Sc. in EEE (DUET); M.Sc Engg (EEE) (BUET)."
+                android:layout_marginTop="5dp"
+                />
+                 <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Md. Jakaria Rahimi\nAssistant Professor\nB.Sc. in EEE (BUET); M.Sc Engg (EEE),BUET."
+                android:layout_marginTop="5dp"
+                />
+                  <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Anupama Tasneem\nAssistant Professor\nB.Sc. in EEE (AUST); M.Sc Engg (EEE) BUET (On going)."
+                android:layout_marginTop="5dp"
+                />
+                   <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Khandakar Mohammad Ishtiak \nAssistant Professor\n B.Sc. in EEE (AUST) M.Sc Engg (EEE) IUT,(On going)."
+                android:layout_marginTop="5dp"
+                />
+
+            
+           
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="#ffffff"
+    >
+     <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="About Aust"
+        android:textSize="25dp"
+        android:fontFamily="Arial"
+        android:textStyle="bold|italic"
+        android:textColor="#000000"
+        />
+    
+	
+	     <LinearLayout
+	         android:orientation="horizontal"
+	         android:layout_width="match_parent"
+	         android:layout_height="65dp" >
+				
+			         <ImageView 
+			        android:id="@+id/khansaheb"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:src="@drawable/khanshaheb"
+			        android:paddingRight="20dp"
+			        />
+					
+						   <ScrollView
+						       android:layout_width="wrap_content"
+						       android:layout_height="match_parent" >
+
+					         <TextView
+					             android:layout_width="wrap_content"
+					             android:layout_height="wrap_content"
+					             android:layout_alignParentBottom="true"
+					             android:layout_alignParentTop="true"
+					             android:layout_toRightOf="@+id/khansaheb"
+					             android:paddingLeft="20dp"
+					             android:textColor="#000000"
+					             android:text="The Inspiration of the University. Hazrat Khan Bahadur Ahsanullah(R) M.A., M.R.S.A., I.E.S. (1873-1965), was the Assistant Director of Public Instruction for Bengal and Assam Provinces ofundivided  India (1925-29) "
+					             
+					            	 />
+					         </ScrollView>
+			</LinearLayout>         
+	         
+	   
+         
+     
+     <ScrollView 
+         android:layout_width="fill_parent"
+         android:layout_height="fill_parent"
+         android:id="@+id/ScroilDetail"
+         android:paddingTop="10dp"
+         >
+	        
+         <TextView 
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:id="@+id/tvAboutAust"
+             android:hint="About Aust detail"
+             android:textColor="#000000"
+             
+             />
+         
+     </ScrollView>
+    
+   
+    
+
+</LinearLayout>

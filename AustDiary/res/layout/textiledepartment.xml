@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:padding="5dp"
+    android:background="#ffffff"
+    >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Textile Engineering"
+        android:textSize="20dp"
+        android:textStyle="bold|italic"
+         />
+    <ScrollView 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        
+        >
+        <LinearLayout 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="It is a historical fact that textile industry led the industrialization of the economically strong and advanced countries of the world today, namely U.K., Germany, France, Japan and USA. As those countries have moved to more sophisticated and high-tech industrial activities, textile industry is finding its home in the industrially emerging countries of Asia, Africa and Latin America. Bangladesh has not lagged behind in the race to grab a share of the global textile and clothing industry during its migration from the developed countries. Today the textile and apparel industry is the most important industrial sector in Bangladesh."
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="The large and expanding textile and apparel industry in Bangladesh has been placing an increasing demand of highly skilled manpower with technological and managerial background. There are demands for textile graduates in other areas of economic activities. With the aim to meet this demand and also to strengthen the technological base of the industry, Ahsanullah University of Science and Technology (AUST) was the first private university in Bangladesh to introduce B.Sc. in Textile Technology Course in 1998. As of today (June 2007), more than 200 students graduated from this department and they have been performing well in the different textile and apparel units in the country and as well as many commercial organizations. A few of our graduates attended the distinguished universities abroad for post-graduate education and research."
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Over the years we have established state-of-the-art textile testing, fabric manufacturing (weaving and knitting), wet processing (dyeing, printing and finishing) and garments technology laboratories. The additional laboratory facilities including those for yarn manufacturing technology will be set up after the university is shifted to its own campus towards the end of 2007. At the same time, we maintain close and collaborative relationships with the textile and apparel industries and various research institutes for executing our academic programmes and imparting practical and quality education to the students. Seminars and mill visits are organized on regular basis to update the students and the faculty members with latest technological developments."
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="The department has 18 full-time faculty members and most of them possess post graduate degrees from the UK, USA, Germany, Japan and India. Besides the distinguished faculty members and experts from the University of Dhaka, BUET and reputed textile industries are teaching on part-time basis."
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Teachers :"
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Prof. Dr. Mustafizur Rahman\n Professor and  Head of the Department\n M. Sc. (DU), Ph.D.(London) \n DIC(Imperial College, London) Post-doctoral Associate(USA)"
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dr. Ahmed Jalal Uddin\n B.Sc. (D.U.), M.Sc. (MSU, Baroda),M. Tex. Sys. Eng. D.Eng. (Shinshu University Japan)\n Professor"
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dr. Md. Ismail Chowdhury\n M.Sc. in Tex. Eng. (USSR), Ph.D. in Tex. Tech. (USSR)\n  Associate Professor"
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dr. Lal Mohan Baral\n  B. Sc. in Tex. Tech. (BUTex),  M. Sc. in Tex. Engineering. (TUD,Germany), Ph.D. (Romania)\n Associate Professor"
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dr. Md. Rafiqur Rashid\n Ph.D. (JU), M.Sc. in Textiles Studies (Bolton, UK.), B.Sc. in Tex. Engg. (DU)\n Associate Professor"
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mr. A. S. M. Atiquzzaman\n  M. Sc. in Tex. Engg. (TU-Dresden,  Germany).B. Sc. in Tex. Engg. (DU)\n  Associate Professor"
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dr. Engr. Mohammed Rubaiyat Chowdhury\n Ph.D. (JU)B. Sc. in Tex. Engg. (DU)\n  Associate Professor"
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mr. Emdadul Haque ,B. Sc. in Tex. Tech. (D.U.)\nAssistant Professor"
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mr. Md. Ruhul Amin\n B. Sc. Tex. Tech. (D.U.)\n  Assistant Professor"
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mr. A. K. M. Mobarok Hossain\n M. Engg. in Adv. Engg.Mgt. (BUET)., B. Sc. Tex. Tech. (D.U.)\n  Assistant Professor"
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ms. Sonia Hossain\n B. Sc. Tex. Tech. (AUST)\n Assistant Professor"
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mr. Mohammad Mahbubul Alam\n B. Sc. Tex. Tech. (AUST), ( * Study Leave on LWP)\n Assistant Professor"
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Engr. Mohammad Faizur Rahman (Rashed)\n MBA (HRM), BUBT.B. Sc. in Tex. Tech. (DU)\n Assistant Professor"
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mr. Chowdhury Jony Moin,\n M. Engg.(on going), IPE, BUET.B. Sc. in Tex. Tech. (DU)\n Assistant Professor"
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mr. Md. Koushic Uddin\n B. Sc. in Tex. Tech. (AUST)\n Assistant Professor"
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Engr. Mohammad Gias Uddin\n B. Sc. in Tex. Tech. (DU)\n Assistant Professor"
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mr. Sheikh Nazmul Hoque\n MBA (D.U.), B. Sc. in Tex. Tech. (DU)\n Assistant Professor"
+                android:layout_marginTop="5dp"
+                />
+            <TextView 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mr. Md. Ershad Khan\n B. Sc. in Tex. Tech. (DU)\n Assistant Professor"
+                android:layout_marginTop="5dp"
+                />
+            
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
